@@ -1,4 +1,4 @@
-package com.trs;
+package com.jyb;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -18,7 +18,7 @@ import com.alibaba.fastjson.JSONObject;
  * @date 2019年4月
  * @version 1.0
  * @Title: MakePomFromJars.java
- * @Package com.trs.utils
+ * @Package com.jyb
  * @parameter (参数及其意义)
  * @return 控制台输出
  * @throws FileNotFoundException, IOException
